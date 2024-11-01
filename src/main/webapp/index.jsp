@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1><%= "Hello World!" %>
+    <br>Docker로 실행
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
