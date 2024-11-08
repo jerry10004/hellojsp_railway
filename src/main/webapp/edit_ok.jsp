@@ -19,6 +19,6 @@
     title : <%=title%><br />
     writer : <%=writer%><br />
     comments : <%=comments%><br />
-    <a href="list.jsp">목록으로 이동</a>
+<a href="list.jsp">목록으로 이동</a>
 </body>
 </html>
